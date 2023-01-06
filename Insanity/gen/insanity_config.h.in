@@ -1,0 +1,5 @@
+// Configures information passed in from CMake
+#define VERSION_MAJOR @Insanity_VERSION_MAJOR@
+#define VERSION_MINOR @Insanity_VERSION_MINOR@
+#define PLATFORM @CMAKE_SYSTEM_NAME@
+#define PLATFORM_STRING "@CMAKE_SYSTEM_NAME@"
